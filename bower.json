@@ -1,0 +1,21 @@
+{
+  "name": "picprofile",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Rafael Monroy"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/drakkaroy/picprofile",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
